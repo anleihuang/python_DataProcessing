@@ -1,0 +1,4 @@
+Name,Period Start Date,Period End Date,First Date (Data Non Zero),Max Value,Min Value,% of Missing Data
+_CO2_merged.csv_value,2018-04-01T00:00,2018-07-02T23:59,2018-04-14T17:00,1003.790157,346.8036777,48.3%
+_Fan_Coil_Amp_merged.csv_value,2018-04-01T00:00,2018-07-02T23:59,2018-04-14T17:00,0.160190493,0.0,48.2%
+_Return_Temp_merged.csv_value,2018-04-01T00:00,2018-07-02T23:59,2018-04-14T17:00,97.3685302,55.57659836,48.2%
